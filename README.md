@@ -3,15 +3,15 @@
     <h1 align="center">basquiatbot</h1>
 </p>
 
-the **baquiatbot** was created to interact with [unnotedme][1]'s twitch followers. is based on one of ted's cats: basquiat, a very friendly tuxedo. you can interact with him using some commands listed in the [documentation][2].
+The **baquiatbot** was created to interact with [unnotedme][1]'s twitch followers. Is based on one of ted's cats: Basquiat, a very friendly tuxedo. You can interact with him using some commands listed in the [documentation][2].
 
 ### contribute
 
-want to be part of this project? fell free helping us by creating new issues if you find errors or by sending us suggestions for new features. you can also check existing issues and resolve them.
+Want to be part of this project? Fell free helping us by creating new issues if you find errors or by sending us suggestions for new features. You can also check existing issues and resolve them.
 
 ### license
 
-this project is under [MIT][3] license.
+This project is under [MIT][3] license.
 
 [1]: https://twitch.tv/unnotedme
 [2]: https://www.youtube.com/watch?v=A_6wm8HVaVY&ab_channel=spiderwomen23
